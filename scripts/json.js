@@ -10,3 +10,5 @@ console.log(user);
 const jsonString=JSON.stringify(user);
 console.log(jsonString);
 console.log(typeof(jsonString));
+const jsonObj=JSON.parse(jsonString);
+console.log(jsonObj);
