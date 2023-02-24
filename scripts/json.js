@@ -12,3 +12,4 @@ console.log(jsonString);
 console.log(typeof(jsonString));
 const jsonObj=JSON.parse(jsonString);
 console.log(jsonObj);
+console.log(typeof(jsonObj));
