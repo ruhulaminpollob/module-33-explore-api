@@ -7,3 +7,5 @@ const user={
 
 
 console.log(user);
+const jsonString=JSON.stringify(user);
+console.log(jsonString);
